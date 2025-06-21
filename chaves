@@ -1,13 +1,16 @@
 {
-  "app_info": {
-    "latest_version": "10.37.0",
-    "update_url": "https://SEU_SITE_OU_LINK_DE_DOWNLOAD_AQUI"
-  },
   "valid_licenses": [
-    "CHAVE-PREMIUM-001",
-    "LICENCA-TESTE-BETA",
     "NILDEXTEC",
-     "CONSIGO",
-    "SUPER-USER-42"
-  ]
+    "CHAVE-CLIENTE-001",
+    "CHAVE-CLIENTE-002"
+  ],
+  "update_info": {
+    "latest_version": "11.01.00",
+    "download_url": "https://www.seusite.com/download/AuDark-Setup.zip",
+    "release_notes": [
+      "- NOVO: Verificador de atualizações automático!",
+      "- MELHORIA: Sistema de licença mais seguro e robusto.",
+      "- CORREÇÃO: Travamentos ao visualizar imagens foram resolvidos."
+    ]
+  }
 }
