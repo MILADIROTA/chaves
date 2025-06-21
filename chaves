@@ -1,0 +1,13 @@
+{
+  "app_info": {
+    "latest_version": "10.37.0",
+    "update_url": "https://SEU_SITE_OU_LINK_DE_DOWNLOAD_AQUI"
+  },
+  "valid_licenses": [
+    "CHAVE-PREMIUM-001",
+    "LICENCA-TESTE-BETA",
+    "NILDEXTEC",
+     "CONSIGO",
+    "SUPER-USER-42"
+  ]
+}
